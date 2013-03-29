@@ -2,7 +2,7 @@ package com.nhncorp.git;
 
 public class TestMain {
 	
-	private static final String MESSAGE_WELCOME = "hi";
+	private static final String MESSAGE_WELCOME = "hello";
 
 	/**
 	 * @param args
@@ -10,6 +10,7 @@ public class TestMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(MESSAGE_WELCOME);
+		
 	}
 
 }
